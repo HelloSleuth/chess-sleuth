@@ -2,3 +2,4 @@ jupyter
 chess
 openai
 stockfish
+python-dotenv

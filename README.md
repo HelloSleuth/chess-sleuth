@@ -15,3 +15,6 @@ ChatGPT vs. Stockfish in the chess bot battle of the century.
 ```
 OPENAI_API_KEY=sk-whateverYourBigLongKeyIs
 ```
+
+## Running
+Open chess_sleuth.ipynb in Jupyter and run it!
