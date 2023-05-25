@@ -4,7 +4,7 @@ ChatGPT vs. Stockfish in the chess bot battle of the century from the folks at [
 ## Requirements
 * An [OpenAI account](https://platform.openai.com/signup?launch)
 * An [OpenAI API Key](https://platform.openai.com/account/api-keys)
-* Python 3.10 (may work with other version, but untested)
+* Python 3.10 (probably works with other versions but we haven't tested it)
 * [Homebrew](https://brew.sh/) (assuming you are on a Mac)
 
 ## Setup
