@@ -1,6 +1,18 @@
 # ♔♕♖♗♘♙ chess-sleuth ♚♛♜♝♞♟︎
 ChatGPT vs. Stockfish in the chess bot battle of the century from the folks at [Sleuth](https://hellosleuth.com/)!
 
+|   | a | b | c | d | e | f | g | h |
+|---|---|---|---|---|---|---|---|---|
+| 8 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| 7 | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| 6 |   |   |   |   |   |   |   |   |
+| 5 |   |   |   |   |   |   |   |   |
+| 4 |   |   |   |   |   |   |   |   |
+| 3 |   |   |   |   |   |   |   |   |
+| 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+
+
 ## Requirements
 * An [OpenAI account](https://platform.openai.com/signup?launch)
 * An [OpenAI API Key](https://platform.openai.com/account/api-keys)
