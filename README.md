@@ -1,5 +1,5 @@
 # chess-sleuth
-ChatGPT vs. Stockfish in the chess bot battle of the century.
+ChatGPT vs. Stockfish in the chess bot battle of the century from the folks at [Sleuth](https://hellosleuth.com/)!
 
 ## Requirements
 * An OpenAI API Key
