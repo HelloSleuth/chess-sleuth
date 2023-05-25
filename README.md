@@ -1,4 +1,4 @@
-# chess-sleuth
+# ♔♕♖♗♘♙ chess-sleuth ♚♛♜♝♞♟︎
 ChatGPT vs. Stockfish in the chess bot battle of the century from the folks at [Sleuth](https://hellosleuth.com/)!
 
 ## Requirements
