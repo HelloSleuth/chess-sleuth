@@ -12,6 +12,7 @@ ChatGPT vs. Stockfish in the chess bot battle of the century from the folks at [
 | 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
 | 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
+(ChatGPT drew that chess board!!)
 
 ## Requirements
 * An [OpenAI account](https://platform.openai.com/signup?launch)
