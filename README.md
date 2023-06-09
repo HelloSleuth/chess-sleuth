@@ -34,4 +34,6 @@ OPENAI_API_KEY=sk-whateverYourBigLongKeyIs
 ```
 
 ## Running
-Open chess_sleuth.ipynb in Jupyter and run it!
+1. Open chess_sleuth.ipynb. 
+2. Set the correct path to the Stockfish engine in place of "stockfish" for path_to_stockfish. This is something like: "/opt/homebrew/Cellar/stockfish/15.1/bin/stockfish" if you used `brew install stockfish`.
+4. Run the notebook!
