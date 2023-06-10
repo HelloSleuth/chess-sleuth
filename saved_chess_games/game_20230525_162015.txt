@@ -1,0 +1,3 @@
+1. e4 Nf6 2. e5 Ng8 3. d4 c6 4. Nf3 f6 5. exf6 Nxf6 6. Bd3 d6 7. O-O Bg4 8. h3 Bd7 9. Nc3 g6 10. Bg5 Na6 11. Qe2 Bf5 12. Bxa6 bxa6 13. Qxa6 Qc8 14. Qxc8+ Bxc8 15. Rfe1 Bg7 16. Ne5 dxe5 17. dxe5 Nd7 18. Rad1 Nf8 19. Ne4 Ne6 20. Nf6+ Kf7 21. Ng4 Nxg5 22. f4 Ne6 23. f5 a5 24. fxe6+ Kxe6 25. Rd6+ exd6 26. exd6+ Kd7 27. Ne5+ Bxe5 28. Rxe5 Kxd6 29. Rxa5 Rxa5 30. a3 Be6 31. b4 Rxa3 32. Kf2 Ra4 33. c3 Rf8+ 34. Ke3 Bd5 35. g4 Ra1 36. Kd4 Rf3 37. c4 Rd1#
+Outcome: Black (Stockfish) wins!
+Stockfish ELO: 1625

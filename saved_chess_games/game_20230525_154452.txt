@@ -1,0 +1,3 @@
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 a6 5. Bc4 d5 6. Bxd5 Nf6 7. Nf3 Bc5 8. Nc3 Ng4 9. O-O c6 10. Bb3 f5 11. exf5 Bxf2+ 12. Rxf2 Qb6 13. Qe2 Qc5 14. Ne4 Qf8 15. h3 Bxf5 16. hxg4 Bxg4 17. d3 Qe7 18. Bg5 Qd7 19. Nxe5 Bxe2 20. Bf7+ Qxf7 21. Nxf7 O-O 22. Rxe2 Rxf7 23. Rf1 Raf8 24. Rxf7 Rxf7 25. Rf2 Rxf2 26. Kxf2 h6 27. Be3 Kf7 28. Nd6+ Kg6 29. Nxb7 Kf5 30. Nd6+ Ke6 31. Ne4 Kf7 32. Kf3 Ke8 33. Bc5 Kd8 34. Kf4 Kd7 35. Ke5 Kc7 36. Nd6 Kd7 37. Nf5 Ke8 38. Nxg7+ Kf7 39. Nf5 a5 40. Nd6+ Kg6 41. Nc4 h5 42. Kf4 a4 43. Ne5+ Kg7 44. Kg5 Kh7 45. Kxh5 Kh8 46. Kg6 Kg8 47. Nf7 a3 48. Bxa3 c5 49. Bxc5
+Outcome: The game is a draw.
+Stockfish ELO: 1600
